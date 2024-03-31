@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Neuroprinciplist"
+title                    : "Roxana Zeraati"
 title_separator          : "-"
-subtitle                 : Searching for principles of brain function and dysfunction # site tagline that appears below site title in masthead
-name                     : "Shervin Safavi"
-description              : "Semi-academic website of Shervin Safavi."
-url                      : https://shervinsafavi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : In search of computational principles of flexible behavior # site tagline that appears below site title in masthead
+name                     : "Roxana Zeraati"
+description              : "Academic website of Roxana Zeraati."
+url                      : https://roxana-zeraati.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : shervinsafavi/shervinsafavi.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : roxana-zeraati/roxana-zeraati.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/tmplogo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -93,27 +93,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shervin Safavi"
+  name             : "Roxana Zeraati"
   avatar           : "/assets/images/ferFeri.png" # path of avatar image, e.g. "/assets/images/x.jpg"
-  bio              : "PI of Computational Machinery of Cognition (CMC) lab, trying to understand the brain function and dysfunction in a principled way."
+  bio              : "PhD student at IMPRS MMFD, University of Tübingen and Max Planck Institute for Biological Cybernetics "
   location         : # "Somewhere"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:site@shervinsafavi.org
+      url: mailto:research@roxanazeraati.org
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/neuroprinciples"
+      url: "https://twitter.com/roxana_zeraati"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/shervinsafavi"
+      url: "https://github.com/roxana-zeraati"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -123,22 +123,22 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/neuroprinciples"		
+      # url: "https://twitter.com/roxana_zeraati"		
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://gitlab.com/shervinsafavi"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   url: "https://gitlab.com/shervinsafavi"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mehraaien"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/mehraaien"
 
 
 # Reading Files
