@@ -28,5 +28,8 @@ I am generally interested in developing methods and models that would allow us t
 That is why, in the next step, I would like to focus on the intersection between RL models and RNNs. More specifically, training RNNs (ideally biophysically plausible ones) to perform complex behaviors, and reverse-engineering them to understand the mechanisms underlying adaptive learning in dynamic ecological environments. 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lUS7OCB12D8?si=QoSxIJ3H6NSNmm-r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 
