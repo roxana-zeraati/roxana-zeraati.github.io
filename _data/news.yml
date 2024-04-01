@@ -7,3 +7,13 @@
   date: 2 March 2024
   abstract: I gave a contributed talk at Cosyne 2024 main meeting about our recent work on how different learning curricula give rise to distinct mechanisms for performing long-memory tasks. Click the link above to watch the recorded video.
   link: "https://www.youtube.comwatchv=OCr4KV653u8&list=PL9YzmV9joj3EjkmmUEodJNDq9ekI7iFjq&index=9&t=5103s"
+
+- title: Paper accepted to ICLR 2024
+  date: 20 February 2024
+  abstract: Our paper on curriculum learning for long-memory tasks is accepted to ICLR 2024. We found that slow timescales required for forming long memories arise from distinct mechanisms shaped by the curriculum by which RNNs learned the task.
+  link: "https://openreview.net/forum?id=xwKt6bUkXj"
+
+- title: Talk at Physics of Life Symposium
+  date: 17 November 2023
+  abstract: I gave a talk on "Signatures of critical slowing down in the visual cortex during attention" at the "Physics of Life Symposium: Students and Postdocs Edition", organized by Princeton University and CUNY Graduate Center in New York. 
+  link: "https://itsatcuny.org/calendar/biophysics231117"
