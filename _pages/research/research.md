@@ -30,11 +30,11 @@ That is why, in the next step, I would like to focus on the intersection between
 ## Recorded talks
 
 Cosyne 2024 Main Meeting: Long timescales needed for memory tasks arise from distinct mechanisms shaped by learn- ing curricula
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OCr4KV653u8?si=8-Vefe5P8qPilMAg&amp;start=5103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Cosyne 2024 Workshops: A census of neural timescales across the mouse brain
 
+
+Cosyne 2024 Workshops: A census of neural timescales across the mouse brain
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lUS7OCB12D8?si=QoSxIJ3H6NSNmm-r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
