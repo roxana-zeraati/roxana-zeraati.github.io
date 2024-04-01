@@ -29,7 +29,7 @@ That is why, in the next step, I would like to focus on the intersection between
 
 ## Recorded talks
 
-Cosyne 2024 Main Meeting: Long timescales needed for memory tasks arise from distinct mechanisms shaped by learn- ing curricula
+Cosyne 2024 Main Meeting: Long timescales needed for memory tasks arise from distinct mechanisms shaped by learning curricula
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OCr4KV653u8?si=8-Vefe5P8qPilMAg&amp;start=5103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
