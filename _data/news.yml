@@ -1,93 +1,31 @@
-- title: New theory preprint!
-  date: 8 May 2020
-  abstract: A new theory preprint on  quantifying the relationship between point processes (like spikes) and continuous signals (like LFPs).
-  link: "https://arxiv.org/abs/2005.04034"
+- title: Talk at Cosyne 2024 workshops
+  date: 4 March 2024
+  abstract: I gave a talk at Cosyne 2024 workshop on "Brain-wide modeling in the era of large-scale recordings and high resolution multi-omics" about our recent collaboration with the International Brain Laboratory studying studying neural timescale across the mouse brain. Click the link above to watch the recorded video.
+  link: "https://www.youtube.com/watch?v=lUS7OCB12D8"
+
+- title: Contributed talk at Cosyne 2024
+  date: 2 March 2024
+  abstract: I gave a contributed talk at Cosyne 2024 main meeting about our recent work on how different learning curricula give rise to distinct mechanisms for performing long-memory tasks. Click the link above to watch the recorded video.
+  link: "https://www.youtube.com/watch?v=OCr4KV653u8&list=PL9YzmV9joj3EjkmmUEodJNDq9ekI7iFjq&index=9&t=5103s"
+
+- title: Paper accepted to ICLR 2024
+  date: 20 February 2024
+  abstract: Our paper on curriculum learning for long-memory tasks is accepted to ICLR 2024. We found that slow timescales required for forming long memories arise from distinct mechanisms shaped by the curriculum by which RNNs learned the task.
+  link: "https://openreview.net/forum?id=xwKt6bUkXj"
+
+- title: Talk at Physics of Life Symposium
+  date: 17 November 2023
+  abstract: I gave a talk on "Signatures of critical slowing down in the visual cortex during attention" at the "Physics of Life Symposium: Students and Postdocs Edition", organized by Princeton University and CUNY Graduate Center in New York. 
+  link: "https://itsatcuny.org/calendar/biophysics231117"
+
+- title: Talk at Bernstein Conference 2023
+  date: 28 September 2023
+  abstract: I gave a contributed talk on the "Role of single-neuron and network-mediated timescales in recurrent neural networks solving long-memory tasks" at the Bernstein Conference in Berlin. 
+  link: "https://abstracts.g-node.org/conference/BC23/abstracts#/uuid/b12a5c4a-86c3-47eb-b645-a736b1baf882"
+
+- title: MCN summer course at Marine Biology Laboratory
+  date: 26 July 2023
+  abstract: I am spending one month in beautiful Woods Hole to attend the "Methods in Computational Neuroscience" summer course at the Marine Biology Laboratory. 
+  link: "https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/methods-computational-neuroscience"
 
 
-- title: 2 new preprint about visual awarness!
-  date: 28 January 2020
-  abstract: Two new preprints on neural mechanism involved in visual awarness. <a href="https://www.biorxiv.org/content/10.1101/2020.01.28.921841v1.abstract">One</a> on decoding the contents of visual awareness from PFC neural populations, and the <a href="https://www.biorxiv.org/content/10.1101/2020.01.29.924928v3">other one</a> on the relationship between PFC [persumued] state fluctuations and perceptual switches.
-
-- title: 2 accepted abstract in Cosyne 2020!
-  date: 13 January 2020
-  abstract: Two accepted abstract in <a href="http://cosyne.org/cosyne20/Cosyne2020_program_book.pdf">Cosyne 2020</a>. One on a multivariate method for investigating spike-LFP coupling (II-48), and the other one on signatures of criticality observed in efficient coding network (I-100).
-  link: "http://cosyne.org/cosyne20/Cosyne2020_program_book.pdf"
-
-- title: I moved to Reasonal Inc.
-  date: 1 Nov. 2019
-  abstract: <a href="https://reason.al">Reasonal Inc.</a>, a new startup I co-Founded, is focused on addressing the growing problem of spread of misinformaiton on the internet. The mission of Reasonal is to bring more clarity to the public discourse.
-  link: "https://reason.al"
-
-- title: Consequential Ranking Algorithms and Long-term Welfare @ Misinfo Workshop 2019
-  date: 13 May 2019
-  abstract: I will be presenting our latest work on Consequential Ranking Algorithms and Long-term Welfare at <a href="https://sites.google.com/view/misinfoworkshop">Misinfo Workshop</a> at  <a href="https://www2019.thewebconf.org/">the World Wide Web conference</a>. Preprint of this paper is available on <a href="https://arxiv.org/abs/1905.05305">Arxiv</a>.
-  link: "https://arxiv.org/abs/1905.05305"
-
-- title: (Un) Truth – Journalism and Democracy in the Digital Age
-  date: 24 April 2019
-  abstract: I will be participating in this Symposium organized by German Consulate in Toronto, and will present some aspects of my research on misinformation and information integrity on the web.
-  link: "https://canada.diplo.de/ca-en/vertretungen/generalkonsulat2/-/2205516"
-
-
-- title: Enhancing human learning via spaced repetition optimization @ PNAS
-  date: 23 January 2019
-  abstract: Our paper, "Enhancing human learning via spaced repetition optimization", has been accepted at <i>Proceedings of National Academy of Sciences of the United States of America</i>.
-  link: "https://www.pnas.org/content/early/2019/01/18/1815156116"
-
-- title: XYZ XYZnhancing human learning via spaced repetition optimization @ PNAS
-  date: 23 January 2019
-  abstract: Our paper, "Enhancing human learning via spaced repetition optimization", has been accepted at <i>Proceedings of National Academy of Sciences of the United States of America</i>.
-  link: "https://www.pnas.org/content/early/2019/01/18/1815156116"
-
-
-
-# - title: Design and Analysis of the NIPS 2016 Review Process Accepted at JMLR
-#  date: 24 July 2018
-#  abstract: In this paper, we analyze several aspects of the data collected during the review process, including an experiment investigating the efficacy of collecting ordinal rankings from reviewers (vs. usual scores aka cardinal rankings). Our goal is to check the soundness of the review process we implemented and, in going so, provide insights that may be useful in the design of the review process of subsequent conferences. We introduce a number of metrics that could be used for monitoring improvements when new ideas are introduced.
-#  image: "/images/review_2016.png"
-#  link: "/projects/nips2016"
-
-# - title: Research Internship @ FB
-#  date: June. 11, 2018
-#  abstract: I will be spending the summar at Facebook in Menlo Park with Misinformation team addressing problems related to spread of Misinformation in social networks.
-#  link: "https://newsroom.fb.com/news/2018/05/facing-facts-facebooks-fight-against-misinformation/"
-
-# - title: Leveraging the Crowd to Detect and Reduce the Spread of Fake News and Misinformation @ WSDM 2018
-#   date: 22 October 2017
-#   abstract: Our paper, Leveraging the Crowd to Detect and Reduce the Spread of Fake News and Misinformation, has been accepted (for a long talk) at <i>2018 ACM Web Search and Data Mining conference</i>, Los Angles CA, USA. <a href="http://learning.mpi-sws.org/curb/">Project webpage</a> and <a href="https://arxiv.org/abs/1711.09918">preprint of the paper</a> are now available.
-#   link: "http://www.wsdm-conference.org/2018/"
-
-#- title: Optimizing Human Learning @ Teaching Machines, Robots, and Humans Workshop - NIPS 2017
-#  date: 20 October 2017
-#  abstract: Our paper, "Optimizing Human Learning", has been accepted at <i>Teaching Machines, Robots, and Humans Workshop</i> at NIPS 2017, Long Beach CA, USA. The workshop is on Dec. 9, further details about time and format of the presentation will be announced soon.
-#  link: "http://teaching-machines.cc/nips2017/index.html"
-
-#- title: 2017 MPI-ETH Center for Learning Systems retreat
-#  date: 4 October 2017
-#  abstract: I will be participating in <a href="http://learning-systems.org/events/learning-systems-retreat-2017">2017 MPI-ETH Center for Learning Systems retreat</a> at Stoos, Switzerland. I will also give a talk on our latest work, "Optimizing Human Learning".
-#  link: "http://learning-systems.org/events/learning-systems-retreat-2017"
-
-
-#- title: 2017 Machine Learning Summer School
-#  date: 19 June 2017
-#  abstract: I am part of organization team for <a href="http://mlss.tuebingen.mpg.de/2017/">MLSS2017</a>. The MLSS is a renowned venue for graduate students, researchers, and professionals. It offers an opportunity to learn about fundamental and advanced aspects of machine learning, data analysis and inference, from intellectual leaders of the field.
-#  link: "http://mlss.tuebingen.mpg.de/2017/"
-
-
-#- title: Applied ML Days @ EPFL
-#  date: 24 January 2017
-#  abstract: I will be attending ML Days conference at EPFL in Lausanne, Switzerland. I will also present a <a href="https://onedrive.live.com/download?cid=712F893E56B9B053&resid=712F893E56B9B053%21106073&authkey=AFxUOQa4pDDVNsk">poster</a> on our latest project on <a href="/projects/reliability">Information Reliability and Source Trustworthiness</a>.
-#  image: "https://ogqaqw.bn1302.livefilestore.com/y3m6-fTR5xyCKdaJQp3bPwYKvFexJ5iua5QUyUr0KE5SoNrzLpUl6_QWg5R_UU2BhnW4FErluk37jW13_9iM9bjINX10FwODeJDi_VknbxZ2LNzt21Q-P5feY2ydi1ae1-L4mrnLcuxDr-Dy4l9nWoSsl7fEvSeyLqSukMZCdn3I_c?width=660&height=495&cropmode=none"
-#  link: "https://www.appliedmldays.org"
-
-#- title: Distilling Information Reliability and Source Trustworthiness from Digital Traces
-#  date: 20 Dec 2016
-#  abstract: Our paper on Information Reliability and Source Trustworthiness has been accepted at <a href="http://www.www2017.com.au/">WWW 2017</a>, preprint available on  <a href="https://arxiv.org/abs/1610.07472">Arxiv</a>. Code and data will be published soon.
-#  image: "/images/Reliability_icon.png"
-#  link: "https://arxiv.org/abs/1610.07472"
-#
-#- title: NIPS 2016
-#  date: 5 December 2016
-#  abstract: Krikamol Muandat and I were NIPS workflow team members in 2016, read NIPS blog post <a href="http://www.tml.cs.uni-tuebingen.de/team/luxburg/misc/nips2016/index.php">here</a>. Exhibition of rejects are published <a href="http://users.cecs.anu.edu.au/~williams/sdr16.html">here</a>. More information will be published soon!
-#  image: "/images/review_2016.png"
-#  link: "http://www.tml.cs.uni-tuebingen.de/team/luxburg/misc/nips2016/index.php"
