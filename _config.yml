@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Roxana Zeraati"
 title_separator          : "-"
-subtitle                 : In search of computational principles of flexible adaptive behavior # site tagline that appears below site title in masthead
+subtitle                 : In search of computational principles of adaptive behavior # site tagline that appears below site title in masthead
 name                     : "Roxana Zeraati"
 description              : "Academic website of Roxana Zeraati."
 url                      : https://roxana-zeraati.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
