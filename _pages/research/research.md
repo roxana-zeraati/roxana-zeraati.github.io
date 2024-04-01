@@ -16,7 +16,7 @@ During my PhD, I studied how spatiotemporal scales of neural dynamics relate to 
 
 
 {: style="text-align: justify" }
-Inspired by these findings, I became interested in the functional role of neural timescales, i.e. their role in neural computations. For this purpose, we used task-optimized recurrent neural networks (RNNs) to study the link between neural timescales and working memory ([Khajehabdollahi *, Zeraati * et al., ICLR, 2024](https://openreview.net/forum?id=xwKt6bUkXj). We found that slow timescales required for forming long memories arise from distinct mechanisms shaped by the learning curriculum: developing slow timescales using recurrent dynamics instead of single-neuron biophysical properties allows learning more complex objectives and improves computational robustness. Our results also introduced optimal training algorithms for other machine-learning architectures, e.g., GRU and LSTM. 
+Inspired by these findings, I became interested in the functional role of neural timescales, i.e. their role in neural computations. For this purpose, we used task-optimized recurrent neural networks (RNNs) to study the link between neural timescales and working memory ([Khajehabdollahi<sup>*</sup>, Zeraati<sup>*</sup> et al., ICLR, 2024](https://openreview.net/forum?id=xwKt6bUkXj). We found that slow timescales required for forming long memories arise from distinct mechanisms shaped by the learning curriculum: developing slow timescales using recurrent dynamics instead of single-neuron biophysical properties allows learning more complex objectives and improves computational robustness. Our results also introduced optimal training algorithms for other machine-learning architectures, e.g., GRU and LSTM. 
 
 ## Potential future directions
 
