@@ -11,7 +11,9 @@ author_profile: false
 
 ## Past and current research
 
+<p style='text-align: right;'>
 During my PhD, I studied how spatiotemporal scales of neural dynamics relate to behavior during different cognitive tasks. First, we developed data analysis methods ([Zeraati et al., Nat. Comput. Sci, 2022](https://www.nature.com/articles/s43588-022-00214-3)) and computational models ([Zeraati et al., Nat. Commun., 2023](https://www.nature.com/articles/s41467-023-37613-7); [Shi, Zeraati et al., PRR, 2023](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013005)) to show that timescales of neural dynamics can flexibly adapt to behavioral states (e.g., selective attention), correlate with behavioral outputs such as reaction time, and are shaped by the spatial network structure and top-down inputs. Currently, I am working on a project in collaboration with the [International Brain Laboratory](https://www.internationalbrainlab.com/), where we study the role of diverse neural timescales across the whole mouse brain (especially in sub-cortical structures such as the midbrain, hindbrain and cerebellum) during decision-making. 
+</p>
 
 Inspired by our previous findings, then, I became interested in the functional role of neural timescales, i.e. their role in neural computations. For this purpose, we used task-optimized recurrent neural networks (RNNs) to study the link between neural timescales and working memory ([Khajehabdollahi*, Zeraati* et al., ICLR, 2024](https://openreview.net/forum?id=xwKt6bUkXj). We found that slow timescales required for forming long memories arise from distinct mechanisms shaped by the learning curriculum: developing slow timescales using recurrent dynamics instead of single-neuron biophysical properties allows learning more complex objectives and improves computational robustness. Our results also introduced optimal training algorithms for other machine-learning architectures, e.g., GRU and LSTM. 
 
