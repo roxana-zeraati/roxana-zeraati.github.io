@@ -1,12 +1,23 @@
-- title: Talk at Cosyne 2024 workshops
-  date: 4 March 2024
-  abstract: I gave a talk at Cosyne 2024 workshop on "Brain-wide modeling in the era of large-scale recordings and high resolution multi-omics" about our recent collaboration with the International Brain Laboratory studying neural timescale across the mouse brain. You can watch the recorded video from the link above.
-  link: "https://www.youtube.com/watch?v=lUS7OCB12D8"
+- title: Workshop at Bernstein Conference
+  date: 29 September 2024
+  abstract: Shervin Safavi and I are organizing an exciting workshop at the Bernstein Conference on “Computation across scales in brain and beyond” which brings together a broad group of computational and experimental neuroscientists studying distinct types of computation from the level of single neurons to the whole brain and even brain-body interactions.
+  link: "https://bernstein-network.de/bernstein-conference/program/satellite-workshops/computation-across-scales/"
+
+- title: Talk at INSPIRE Symposium
+  date: 6 May 2024
+  abstract: I was invited to give a talk at the 2024 INSPIRE Symposium, WashU, about our work on adaptive neural timescales during selective attention. It was super exciting to interact and learn from other INSPIRE speakers and the lively neuroscience community at WashU, highly recommend it!
+  link: "https://neuroscience.wustl.edu/opportunities/inspire/"
 
 - title: Contributed talk at Cosyne 2024
   date: 2 March 2024
   abstract: I gave a contributed talk at Cosyne 2024 main meeting about our recent work on how different learning curricula give rise to distinct mechanisms for performing long-memory tasks. You can watch the recorded video from the link above.
   link: "https://www.youtube.com/watch?v=OCr4KV653u8&list=PL9YzmV9joj3EjkmmUEodJNDq9ekI7iFjq&index=10&t=5103s"
+
+- title: Talk at Cosyne 2024 workshops
+  date: 4 March 2024
+  abstract: I gave a talk at Cosyne 2024 workshop on "Brain-wide modeling in the era of large-scale recordings and high resolution multi-omics" about our recent collaboration with the International Brain Laboratory studying neural timescale across the mouse brain. You can watch the recorded video from the link above.
+  link: "https://www.youtube.com/watch?v=lUS7OCB12D8"
+
 
 - title: Paper accepted to ICLR 2024
   date: 20 February 2024
