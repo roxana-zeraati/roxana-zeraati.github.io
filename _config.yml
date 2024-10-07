@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Roxana Zeraati"
-  avatar           : "/assets/images/IMG_3487.JPG" # path of avatar image, e.g. "/assets/images/x.jpg"
-  bio              : "PhD student at IMPRS MMFD, University of Tübingen and Max Planck Institute for Biological Cybernetics "
+  avatar           : "/assets/images/ZeraatiRoxana.jpg" # path of avatar image, e.g. "/assets/images/x.jpg"
+  bio              : "PhD student at IMPRS MMFD, University of Tübingen and Max Planck Institute for Biological Cybernetics (photo: Friedhelm Albrecht/University of Tübingen)"
   location         : # "Somewhere"
   email            : 
   links:
