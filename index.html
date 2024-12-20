@@ -1,38 +1,20 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000; min-height: 16.0px}
-    span.s1 {font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">---</span></p>
-<p class="p1"><span class="s1">layout: home</span></p>
-<p class="p1"><span class="s1">excerpt: "Roxana Zeraati personal webpage."</span></p>
-<p class="p1"><span class="s1">author_profile: true</span></p>
-<p class="p1"><span class="s1">---</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">&lt;p align="justify"&gt;</span></p>
-<p class="p1"><span class="s1">I am a PhD student in computational neuroscience at the University of Tübingen and Max Planck Institute for Biological Cybernetics. I started my scientific journey as a double-major bachelor student of physics and biomedical engineering and then moved to neuroscience for my master and PhD.<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">&lt;/p&gt;</span></p>
-<p class="p1"><span class="s1">&lt;p align ="justify"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>My research lies at the intersection of systems and computational neuroscience. I am generally interested in understanding how animals adaptively learn to modify their behavior according to environmental demands and its underlying biological machinery. For this purpose, I develop data analysis methods and computational models (inspired by physics, machine learning and artificial intelligence approaches) to link neural dynamics to brain computation and behavior.</span></p>
-<p class="p1"><span class="s1">&lt;/p&gt;</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">&lt;h3 class="archive__subtitle"&gt;{{ site.data.ui-text[site.locale].recent_news | default: "Recent news" }}&lt;/h3&gt;</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% for post in site.data.news limit:3 %}</span></p>
-<p class="p1"><span class="s1">{% include news-single.html %}</span></p>
-<p class="p1"><span class="s1">{% endfor %}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-</body>
-</html>
+---
+layout: home
+excerpt: "Roxana Zeraati personal webpage."
+author_profile: true
+---
+
+<p align="justify">
+I am a PhD student in computational neuroscience at the University of Tübingen and Max Planck Institute for Biological Cybernetics. I started my scientific journey as a double-major bachelor student of physics and biomedical engineering and then moved to neuroscience for my master and PhD. 
+</p>
+<p align ="justify">
+ My research lies at the intersection of systems and computational neuroscience. I am generally interested in understanding how animals adaptively learn to modify their behavior according to environmental demands and its underlying biological machinery. For this purpose, I develop data analysis methods and computational models (inspired by physics, machine learning and artificial intelligence approaches) to link neural dynamics to brain computation and behavior.
+</p>
+
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_news | default: "Recent news" }}</h3>
+
+
+{% for post in site.data.news limit:3 %}
+{% include news-single.html %}
+{% endfor %}
