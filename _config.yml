@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Roxana Zeraati"
-  avatar           : "/assets/images/ZeraatiRoxana.jpg" # path of avatar image, e.g. "/assets/images/x.jpg"
+  avatar           : "/assets/images/ZeraatiRoxana_v2.jpg" # path of avatar image, e.g. "/assets/images/x.jpg"
   bio              : "Postdoc at Max Planck Institute for Biological Cybernetics (photo: Friedhelm Albrecht/University of Tübingen)"
   location         : # "Somewhere"
   email            : 
