@@ -118,18 +118,18 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-# Site Footer
-footer:
-  links:
-    - label: "Twitter/X"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/roxana_zeraati"		
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
+# # Site Footer
+# footer:
+#   links:
+#     - label: "Twitter/X"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/roxana_zeraati"		
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       # url:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/roxana-zeraati"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   url: "https://gitlab.com/shervinsafavi"
