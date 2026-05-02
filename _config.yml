@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Roxana Zeraati"
   avatar           : "/assets/images/ZeraatiRoxana_v2.jpg" # path of avatar image, e.g. "/assets/images/x.jpg"
-  bio              : "Postdoc at Max Planck Institute for Biological Cybernetics (photo: Friedhelm Albrecht/University of Tübingen)"
+  bio              : "Group Leader at Max Planck Institute for Biological Cybernetics (photo: Friedhelm Albrecht/University of Tübingen)"
   location         : # "Somewhere"
   email            : 
   links:
@@ -105,7 +105,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "Twitter/X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/roxana_zeraati"
     - label: "Facebook"
@@ -121,7 +121,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Twitter/X"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/roxana_zeraati"		
     - label: "Facebook"
