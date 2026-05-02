@@ -26,7 +26,7 @@ Our approach combines various methods from reinforcement learning, dynamical sys
 ## Recorded talks
 
 BrainNet 2025: Adaptive behavior across timescales.
-<iframe width="560" height="315" src="https://youtu.be/DCoIudUXgWA?si=Iie2KJlBpZPe3Lrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DCoIudUXgWA&list=PLf_OmCqo04DC8s7ZckptpIa1O_A0oVyfv&index=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 &nbsp;  
 
 Cosyne 2024 Main Meeting: Long timescales needed for memory tasks arise from distinct mechanisms shaped by learning curricula.
